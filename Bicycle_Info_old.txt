@@ -1,0 +1,4 @@
+1,Trek,Mountain Bike,Medium,£20/day,01/08/2021,Good,Available
+2,Giant,Road Bike,Large,20/day;100/week,13-13-2020,New,Rented
+3,Trek,Mountain Bike,Small,£15,12/07/2020,Good,Available
+4,Specialised,Electric Bike,Medium,,01/09/2022,Damaged,Under maintenance

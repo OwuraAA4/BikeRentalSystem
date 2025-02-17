@@ -1,0 +1,52 @@
+{
+    "1001": {
+        "active": true,
+        "RentalLimit": 5,
+        "MembershipEndDate": "2024-12-31"
+    },
+    "1002": {
+        "active": true,
+        "RentalLimit": 3,
+        "MembershipEndDate": "2025-06-30"
+    },
+    "1003": {
+        "active": false,
+        "RentalLimit": 10,
+        "MembershipEndDate": "2023-03-15"
+    },
+    "1004": {
+        "active": true,
+        "RentalLimit": 7,
+        "MembershipEndDate": "2025-12-01"
+    },
+    "1005": {
+        "active": true,
+        "RentalLimit": 4,
+        "MembershipEndDate": "2024-11-30"
+    },
+    "1006": {
+        "active": false,
+        "RentalLimit": 6,
+        "MembershipEndDate": "2022-08-01"
+    },
+    "1007": {
+        "active": true,
+        "RentalLimit": 6,
+        "MembershipEndDate": "2026-02-28"
+    },
+    "1008": {
+        "active": true,
+        "RentalLimit": 2,
+        "MembershipEndDate": "2025-09-15"
+    },
+    "1009": {
+        "active": false,
+        "RentalLimit": 20,
+        "MembershipEndDate": "2023-07-21"
+    },
+    "1010": {
+        "active": true,
+        "RentalLimit": 5,
+        "MembershipEndDate": "2024-10-10"
+    }
+}
